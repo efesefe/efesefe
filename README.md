@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @efesefe
+- 👋 Hi, I’m @efesefe (or just Efe)
 - 👀 I’m interested in Artificial Intelligence - Machine Learning - Image Processing
 - 🌱 I’m currently learning Image Processing with Opencv library in Python programming language
 - 📫 How to reach me ibrahim.3f3@hotmail.com
