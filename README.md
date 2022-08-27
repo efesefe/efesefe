@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efesefe
 - 👀 I’m interested in Artificial Intelligence - Machine Learning - Image Processing
-- 🌱 I’m currently learning Image Processing with Opencv library
+- 🌱 I’m currently learning Image Processing with Opencv library in Python programming language
 - 📫 How to reach me ibrahim.3f3@hotmail.com
 
 <!---
