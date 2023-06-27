@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efesefe (or just Efe)
-- 👀 I’m interested in Artificial Intelligence - Machine Learning - Image Processing
-- 🌱 I’m currently learning Image Processing with Opencv library in Python programming language
-- 📫 How to reach me ibrahim.3f3@hotmail.com
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Kubernetes.
+- 📫 How to reach me ibrahimefeerer@gmail.com
 
 <!---
 efesefe/efesefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
